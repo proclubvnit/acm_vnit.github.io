@@ -1476,7 +1476,7 @@ height:100vh;
 	max-width:100%;
 overflow:hidden;
 	display: block;
-    height: auto;
+    height: 100vh;
     overflow: hidden;
 }
 
