@@ -520,7 +520,7 @@ h1.navbar-brand {
     color: #fff;
 }
 #about .overlay {
-    background-color: rgba(68, 138, 255, 0.7);
+    background-color: black;
     padding: 70px 0 40px;
 }
 
